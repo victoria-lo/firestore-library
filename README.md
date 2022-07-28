@@ -5,4 +5,5 @@ This project is a beginner-friendly on How to Make a React Library System using 
 ### How to Use
 1. `git clone https://github.com/victoria-lo/firestore-library.git`
 2. `npm install`
-3. `npm run dev`
+3. Add your own Firebase config in a `.env` file
+4. `npm run dev`
